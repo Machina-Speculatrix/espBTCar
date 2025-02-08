@@ -27,8 +27,8 @@ This project is a Bluetooth-controlled car using an ESP32 NodeMCU. The car can b
 **
 1. Clone this repository:
    ```bash
-   git clone https://github.com/crucie/bluetooth-car.git
-   cd bluetooth-car
+   git clone https://github.com/crucie/espBTCar.git
+   cd espBTCar
    ```
 2. Install Arduino IDE and ESP32 Board Support Package.
 3. Install required libraries in Arduino IDE:
